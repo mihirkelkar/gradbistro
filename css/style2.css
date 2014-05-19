@@ -109,12 +109,12 @@ p{
 	width: 400px;
 	position: relative;
 	top:50px;
-	left: -300px;
+	left: -275px;
 }
 
 #textbox{
 	height:300px;
-	width: 600px;
+	width: 500px;
 	position: relative;
 	top : -550px;
 	left: 250px;
@@ -126,7 +126,7 @@ p{
 	height: 77px;
 	z-index : 1;
 	position: relative;
-	left: -475px;
+	left: -450px;
 	top: -300px;
 	
 }
@@ -137,7 +137,7 @@ p{
 	height: 77px;
 	z-index : 1;
 	position: relative;
-	left: -275px;
+	left: -250px;
 	top: -302px;
 	
 }
@@ -173,7 +173,7 @@ p{
 	height: 256px;
 	width: 256px;
 	position : relative;
-	left: -400px;
+	left: -375px;
 }
 
 #imageboxtwo{
@@ -181,11 +181,11 @@ p{
 	height: 256px;
 	width: 256px;
 	position : relative;
-	left: -400px;
+	left: -375px;
 }
 
 #tbtwo{
-	width : 800px;
+	width : 500px;
 	z-index : 1;	
 	position: relative;
 	left : 180px;
